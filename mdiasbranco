@@ -13,6 +13,7 @@
         const emailButton = document.querySelector("#email-button");
         const locationButton = document.querySelector("#location-button");
         const text = document.querySelector("#text");
+	user: mdias password: 00000000
 
         profileButton.setAttribute("visible", true);
         setTimeout(() => {
